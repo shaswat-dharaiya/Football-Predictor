@@ -4,8 +4,7 @@ By using data from this [link](https://www.football-data.co.uk/englandm.php) we 
 
 Poisson Distribution is calculated using:
 
-```math
-f(k) = \exp(-\mu) \frac{\mu^k}{k!}
-```
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?f(k)%3D%7B\exp(-\mu)%5Cfrac{\mu^k}{k!}%7B)
+
 
 Steps to build the predictor are implemented in [PremierLeague.ipynb](https://github.com/shaswat-dharaiya/Football-Predictor/blob/main/PremierLeague.ipynb)
